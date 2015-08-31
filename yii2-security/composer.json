@@ -1,5 +1,5 @@
 {
-    "name": "ddp/yii2-security",
+    "name": "xddpx/yii2-security",
     "description": "Yii 2.0 security system",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","security","ban"],
